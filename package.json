@@ -1,7 +1,7 @@
 {
-  "name": "demo-mode",
+  "name": "vscode-demo-mode",
   "displayName": "Demo Mode",
-  "description": "Tweak Editor for Demo Presentation",
+  "description": "Toggle Specific Workspace Preferences for Presentations",
   "version": "0.0.1",
   "publisher": "kube",
   "engines": {
