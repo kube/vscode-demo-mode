@@ -20,7 +20,7 @@ const demoConfig = {
   'git.enabled': false,
   'window.zoomLevel': 1,
   'editor.fontSize': 20,
-  'editor.lineNumbers': 'off',
+  'editor.lineNumbers': 'on',
   'editor.folding': false,
   'files.exclude': {
     '**/.git': true,
