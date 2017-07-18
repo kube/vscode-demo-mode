@@ -1,5 +1,5 @@
 {
-  "name": "vscode-demo-mode",
+  "name": "demo-mode",
   "displayName": "Demo Mode",
   "description": "Toggle Specific Workspace Preferences for Presentations",
   "version": "0.0.1",
@@ -46,5 +46,8 @@
     "mocha": "^2.3.3",
     "@types/node": "^6.0.40",
     "@types/mocha": "^2.2.32"
+  },
+  "dependencies": {
+    "vsce": "^1.29.0"
   }
 }
