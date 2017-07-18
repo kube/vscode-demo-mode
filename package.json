@@ -3,6 +3,10 @@
   "displayName": "Demo Mode",
   "description": "Toggle Specific Workspace Preferences for Presentations",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kube/vscode-demo-mode.git"
+  },
   "publisher": "kube",
   "engines": {
     "vscode": "^1.14.0"
