@@ -30,7 +30,8 @@ const demoConfig = {
     '**/.DS_Store': true,
     '.vscode': true,
     '.gitignore': true,
-    '.editorconfig': true
+    '.editorconfig': true,
+    '**/*.md': true
   },
   'editor.renderIndentGuides': false,
   'editor.mouseWheelScrollSensitivity': 0.2,
