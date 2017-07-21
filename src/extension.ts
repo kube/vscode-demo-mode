@@ -31,7 +31,9 @@ const demoConfig = {
     '.vscode': true,
     '.gitignore': true,
     '.editorconfig': true,
-    '**/*.md': true
+    '**/*.md': true,
+    'package-lock.json': true,
+    'yarn.lock': true
   },
   'editor.renderIndentGuides': false,
   'editor.mouseWheelScrollSensitivity': 0.2,
